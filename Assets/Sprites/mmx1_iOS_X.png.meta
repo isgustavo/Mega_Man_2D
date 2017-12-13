@@ -1,0 +1,1123 @@
+fileFormatVersion: 2
+guid: 674a3f1f474294f648b633d33a236ffb
+timeCreated: 1513057097
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mmx1_iOS_X_0
+    21300002: mmx1_iOS_X_1
+    21300004: mmx1_iOS_X_2
+    21300006: mmx1_iOS_X_3
+    21300008: mmx1_iOS_X_4
+    21300010: mmx1_iOS_X_5
+    21300012: mmx1_iOS_X_6
+    21300014: mmx1_iOS_X_7
+    21300016: mmx1_iOS_X_8
+    21300018: mmx1_iOS_X_9
+    21300020: mmx1_iOS_X_10
+    21300022: mmx1_iOS_X_11
+    21300024: mmx1_iOS_X_12
+    21300026: mmx1_iOS_X_13
+    21300028: mmx1_iOS_X_14
+    21300030: mmx1_iOS_X_15
+    21300032: mmx1_iOS_X_16
+    21300034: mmx1_iOS_X_17
+    21300036: mmx1_iOS_X_18
+    21300038: mmx1_iOS_X_19
+    21300040: mmx1_iOS_X_20
+    21300042: mmx1_iOS_X_21
+    21300044: mmx1_iOS_X_22
+    21300046: mmx1_iOS_X_23
+    21300048: mmx1_iOS_X_24
+    21300050: mmx1_iOS_X_25
+    21300052: mmx1_iOS_X_26
+    21300054: mmx1_iOS_X_27
+    21300056: mmx1_iOS_X_28
+    21300058: mmx1_iOS_X_29
+    21300060: mmx1_iOS_X_30
+    21300062: mmx1_iOS_X_31
+    21300064: mmx1_iOS_X_32
+    21300066: mmx1_iOS_X_33
+    21300068: mmx1_iOS_X_34
+    21300070: mmx1_iOS_X_35
+    21300072: mmx1_iOS_X_36
+    21300074: mmx1_iOS_X_37
+    21300076: mmx1_iOS_X_38
+    21300078: mmx1_iOS_X_39
+    21300080: mmx1_iOS_X_40
+    21300082: mmx1_iOS_X_41
+    21300084: mmx1_iOS_X_42
+    21300086: mmx1_iOS_X_43
+    21300088: mmx1_iOS_X_44
+    21300090: mmx1_iOS_X_45
+    21300092: mmx1_iOS_X_46
+    21300094: mmx1_iOS_X_47
+    21300096: mmx1_iOS_X_48
+    21300098: mmx1_iOS_X_49
+    21300100: mmx1_iOS_X_50
+    21300102: mmx1_iOS_X_51
+    21300104: mmx1_iOS_X_52
+    21300106: mmx1_iOS_X_53
+    21300108: mmx1_iOS_X_54
+    21300110: mmx1_iOS_X_55
+    21300112: mmx1_iOS_X_56
+    21300114: mmx1_iOS_X_57
+    21300116: mmx1_iOS_X_58
+    21300118: mmx1_iOS_X_59
+    21300120: mmx1_iOS_X_60
+    21300122: mmx1_iOS_X_61
+    21300124: mmx1_iOS_X_62
+    21300126: mmx1_iOS_X_63
+    21300128: mmx1_iOS_X_64
+    21300130: mmx1_iOS_X_65
+    21300132: mmx1_iOS_X_66
+    21300134: mmx1_iOS_X_67
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 64
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mmx1_iOS_X_0
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1756
+        width: 32
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_1
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1757
+        width: 88
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_2
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1760
+        width: 118
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_3
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1760
+        width: 118
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_4
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1760
+        width: 118
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_5
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1559
+        width: 116
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_6
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1559
+        width: 74
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_7
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1563
+        width: 108
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_8
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1555
+        width: 107
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_9
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1562
+        width: 124
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_10
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1401
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1403
+        width: 79
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_12
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1403
+        width: 92
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_13
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1402
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_14
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1401
+        width: 88
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_15
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1401
+        width: 98
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_16
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1401
+        width: 135
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_17
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1215
+        width: 115
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_18
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1217
+        width: 128
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_19
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1221
+        width: 150
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_20
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1225
+        width: 124
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_21
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1226
+        width: 132
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_22
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1229
+        width: 148
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_23
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1104
+        width: 152
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_24
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1104
+        width: 192
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_25
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 906
+        width: 108
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_26
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 910
+        width: 110
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_27
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 910
+        width: 128
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_28
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 904
+        width: 70
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_29
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 913
+        width: 80
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_30
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 914
+        width: 80
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_31
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 905
+        width: 70
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_32
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 950
+        width: 82
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_33
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 906
+        width: 105
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_34
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 728
+        width: 118
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_35
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 728
+        width: 118
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_36
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 728
+        width: 118
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_37
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 723
+        width: 96
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_38
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 715
+        width: 114
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_39
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 700
+        width: 128
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_40
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 728
+        width: 136
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_41
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 527
+        width: 98
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_42
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 495
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_43
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 309
+        width: 112
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_44
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 309
+        width: 108
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_45
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 309
+        width: 136
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_46
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 205
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_47
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 205
+        width: 77
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_48
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 205
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_49
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 205
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_50
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 33
+        width: 118
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_51
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 33
+        width: 118
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_52
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 33
+        width: 118
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_53
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 33
+        width: 118
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_54
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 33
+        width: 118
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_55
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 33
+        width: 118
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_56
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 34
+        width: 118
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_57
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 34
+        width: 118
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_58
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 34
+        width: 118
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_59
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 4
+        width: 74
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_60
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2
+        width: 74
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_61
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 3
+        width: 74
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_62
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 4
+        width: 74
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_63
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 4
+        width: 74
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_64
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 4
+        width: 74
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_65
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 4
+        width: 74
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_66
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 5
+        width: 74
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1_iOS_X_67
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 5
+        width: 74
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
